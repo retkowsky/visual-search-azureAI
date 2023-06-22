@@ -9,7 +9,7 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 ## Notebooks
 
 - Introduction to vectors embeddings with Azure Computer Vision 4:
-<a href="1. Vectors embeddings with Azure Computer Vision.ipynb"</a>
+<a href="1. Vectors embeddings with Azure Computer Vision.ipynb"></a>
 - Creation of a fashion visual search demo using Azure Computer Vision and Azure Cognitive search:
 
 ## Steps
