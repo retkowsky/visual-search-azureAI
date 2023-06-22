@@ -10,10 +10,10 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 
 - Introduction to vectors embeddings with Azure Computer Vision 4:<br>
 <a href="1. Vectors embeddings with Azure Computer Vision.ipynb">1. Vectors embeddings with Azure Computer Vision</a>
-- Creation of a fashion visual search demo using Azure Computer Vision and Azure Cognitive search:
+- Creation of a fashion visual search demo using Azure Computer Vision and Azure Cognitive search:<br>
 <a href="2. Visual search with Azure Cognitive Search and Azure Computer Vision.ipynb">2. Visual search with Azure Cognitive Search and Azure Computer Vision</a>
 
-Note: You need to write your Azure AI credentials in the azure.env file
+Note: You need to write your Azure AI credentials in the **azure.env** file
 
 ## Some examples of a prompt search
 <img src= "prompt search (1).jpg">
