@@ -12,6 +12,16 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 <a href="1. Vectors embeddings with Azure Computer Vision.ipynb">1. Vectors embeddings with Azure Computer Vision</a>
 - Creation of a fashion visual search demo using Azure Computer Vision and Azure Cognitive search:
 
+## Some examples of a prompt search
+<img src= "prompt search (1).jpg">
+<img src= "prompt search (2).jpg">
+<img src= "prompt search (3).jpg">
+
+## Some examples of an image search
+<img src= "image_search (1).jpg">
+<img src= "image_search (2).jpg">
+<img src= "image_search (3).jpg">
+
 ## Steps
 - Connect to a blob storage where your catalog images are
 - Use Azure Computer Vision 4 to embed all these images
