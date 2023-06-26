@@ -14,6 +14,8 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 <a href="2. Visual search with Azure Cognitive Search and Azure Computer Vision.ipynb">2. Visual search with Azure Cognitive Search and Azure Computer Vision</a>
 - Some visual search examples:<br>
 <a href="3. Visual search - examples.ipynb">3. Visual search - examples</a>
+
+<br>
 Note: You need to write your Azure AI credentials in the **azure.env** file
 
 ## Demo video
