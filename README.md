@@ -1,5 +1,7 @@
 # Visual search with Azure Computer Vision and Azure Cognitive Search
 
+<img src= "logo.jpg">
+
 We will use vectors embeddings generation using **Azure Computer Vision 4** and **Azure Cognitive Search** and its new vectors support capabilities to build a visual search application.
 
 
