@@ -23,14 +23,14 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 <a href="https://www.youtube.com/watch?v=uHQFTUjQWp4">Demo video</a>
 
 ## Some examples of a prompt search
-<img src= "prompt search (1).jpg">
-<img src= "prompt search (2).jpg">
-<img src= "prompt search (3).jpg">
+<img src= "img/prompt search (1).jpg">
+<img src= "img/prompt search (2).jpg">
+<img src= "img/prompt search (3).jpg">
 
 ## Some examples of an image search
-<img src= "image_search (1).jpg">
-<img src= "image_search (2).jpg">
-<img src= "image_search (3).jpg">
+<img src= "img/image_search (1).jpg">
+<img src= "img/image_search (2).jpg">
+<img src= "img/image_search (3).jpg">
 
 ## Steps
 - Connect to a blob storage where your catalog images are
