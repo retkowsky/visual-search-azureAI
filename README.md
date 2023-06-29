@@ -18,6 +18,8 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 <a href="3. Visual search - examples.ipynb">3. Visual search - examples</a>
 - A gradio webapp for the search:<br>
 <a href="4. Visual search - webapp.ipynb">4. Visual search - webapp</a>
+- UMAP analysis on the vectors embeddings:<br>
+<a href="5. Visual Search - UMAP.ipynb">5. Visual Search - UMAP</a>
 
 Note: You need to write your Azure AI credentials in the **azure.env** file: <a href="azure.env">azure.env</a>
 
