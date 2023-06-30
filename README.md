@@ -59,7 +59,7 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 In this notebook we took some samples fashion images are taken from this link:
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
-22th June 2023<br>
-Updated 26th June 2023<br>
+22-June-2023<br>
+Updated 30-June-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
