@@ -56,7 +56,7 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 - https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-image-retrieval
 - https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
 
-In this notebook we took some samples fashion images are taken from this link:
+We used some samples fashion images that are available here:
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 22-June-2023<br>
