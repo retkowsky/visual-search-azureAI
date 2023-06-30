@@ -38,11 +38,11 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 <img src= "img/image_search (3).jpg">
 
 ## Steps
-- Connect to a blob storage where your catalog images are
-- Use Azure Computer Vision 4 to embed all these images
-- Create an Azure Cognitive search vector store index
-- Upload the embeddings into an Azure Cognitive Search index
-- Do some visual search using a prompt or an image
+1. Connect to a blob storage where your catalog images are
+2. Use Azure Computer Vision 4 to embed all these images
+3. Create an Azure Cognitive search vector store index
+4. Upload the embeddings into an Azure Cognitive Search index
+5. Do some visual search using a prompt or an image
 
 ## Business applications
 - Digital asset management: Image retrieval can be used to manage large collections of digital images, such as in museums, archives, or online galleries. Users can search for images based on visual features and retrieve the images that match their criteria.
@@ -56,6 +56,7 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 - https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-image-retrieval
 - https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
 
+## Fashion images
 We used some samples fashion images that are available here:
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
