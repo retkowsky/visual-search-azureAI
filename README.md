@@ -24,7 +24,8 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 Note: You need to write your Azure AI credentials in the **azure.env** file: <a href="azure.env">azure.env</a>
 
 ## Demo video
-<a href="https://www.youtube.com/watch?v=uHQFTUjQWp4">Demo video</a>
+<a href="https://www.youtube.com/watch?v=uHQFTUjQWp4">YouTube demo video</a>
+<img src="demovideo.jpg" height=512>
 
 ## Some examples of a prompt search
 <img src= "img/prompt search (1).jpg">
