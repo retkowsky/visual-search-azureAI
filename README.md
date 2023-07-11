@@ -23,6 +23,8 @@ In this example we will use **Azure Computer Vision** to generate the embeddings
 <a href="4. Visual search - webapp.ipynb">4. Visual search - webapp</a>
 - UMAP analysis on the vectors embeddings:<br>
 <a href="5. Visual Search - UMAP.ipynb">5. Visual Search - UMAP</a>
+- Visual search with Azure Open AI, Azure Speech Services and Azure Cognitive Search:<br>
+<a href="6. Visual search - Azure Open AI.ipynb">6. Visual search - Azure Open AI</a>
 
 Note: You need to write your Azure AI credentials in the **azure.env** file: <a href="azure.env">azure.env</a>
 
