@@ -60,6 +60,7 @@ Note: You need to write your Azure AI credentials in the **azure.env** file: <a 
 ## To learn more
 - https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-image-retrieval
 - https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
+- https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-vector-search-in-azure-cognitive-search-public/ba-p/3872868
 
 ## Fashion images
 We used some samples fashion images that are available here:
