@@ -11,6 +11,8 @@ We will use vectors embeddings generation using **Azure Computer Vision 4** and 
 **Azure Cognitive Search** today doesn't provide a way to vectorize documents and queries, leaving it up to you to pick the best embedding model for your data. 
 In this example we will use **Azure Computer Vision** to generate the embeddings.
 
+<img src= "acs1.png">
+
 ## Notebooks
 
 - Introduction to vectors embeddings with Azure Computer Vision 4:<br>
